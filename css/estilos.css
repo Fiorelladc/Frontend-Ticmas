@@ -64,7 +64,7 @@ footer p strong {
 /* ------------------------- */
 
 .container {
-    margin: 0px 200px;
+    margin: 0px 50px;
 }
 
 .flex {
@@ -429,7 +429,7 @@ footer p strong {
 
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
     .container{
-        margin: 0px 100px;
+        margin: 0px 10px;
     }
 
     .nav-buttons-box {
@@ -479,7 +479,7 @@ footer p strong {
 
 @media only screen and (max-device-width: 480px) {
     .container{
-        margin: 0px 30px;
+        margin: 0px 5px;
     }
 
     .nav-buttons-box {
